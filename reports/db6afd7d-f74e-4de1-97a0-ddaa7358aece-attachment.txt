@@ -1,0 +1,5 @@
+[32mINFO    [0m root:test_search.py:12 TestSearch started
+[32mINFO    [0m root:test_search.py:13 ********************
+[32mINFO    [0m root:test_search.py:15 Enter product Name HP
+[32mINFO    [0m root:test_search.py:17 click on button
+[32mINFO    [0m root:test_search.py:19 Product name displayed
